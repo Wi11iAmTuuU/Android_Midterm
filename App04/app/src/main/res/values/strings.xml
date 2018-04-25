@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">App04</string>
+
+    <string-array name="weekday">
+        <item>學生1</item>
+        <item>學生2</item>
+        <item>學生3</item>
+        <item>學生4</item>
+        <item>學生5</item>
+        <item>學生6</item>
+        <item>學生7</item>
+        <item>學生8</item>
+        <item>學生9</item>
+        <item>學生10</item>
+    </string-array>
+</resources>
